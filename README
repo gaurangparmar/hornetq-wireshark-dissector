@@ -2,4 +2,6 @@ Experimental HornetQ dissector written using Wireshark's Lua dissector support.
 
 This is ongoing work, not all messages might be listed or decoded correctly. Usually a ! mark will show that the decoding of that particular message is incomplete.
 
+Please put Lua file at C:\Users\<<username>>\AppData\Roaming\Wireshark\plugins and restart wireshark.
+
 All contributions are welcome!
